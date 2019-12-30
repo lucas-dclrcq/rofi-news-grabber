@@ -1,0 +1,5 @@
+profile: cli
+defaultPackage: org.ldclrcq
+---
+testFramework: junit
+sourceLanguage: java
